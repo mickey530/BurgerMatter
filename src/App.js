@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+// import { createBrowserRouter } from "react-router-dom";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>한결 리액트앱 템플릿</h1>
     </div>
   );
 }
+
+// const App = createBrowserRouter([
+//   {
+//     path: `${process.env.PUBLIC_URL}/`,
+//     element: <Home />,
+//   },
+//   {
+//     path: `${process.env.PUBLIC_URL}/movie/:id`,
+//     element: <Detail />,
+//   },
+// ]);
 
 export default App;
