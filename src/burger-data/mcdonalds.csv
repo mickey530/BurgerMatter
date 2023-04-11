@@ -1,4 +1,2 @@
-id,name,price
-1,hamburger,3000
-2,cheeseburger,3500
-3,chicken burger,4000
+id,name,price,kcal,amount,sugar,protein,fat,salt,Caffeine,imgpath
+1,빅맥,5200,582,223,8,27,11,902,,https://www.mcdonalds.co.kr/upload/product/pcfile/1583727855319.png
