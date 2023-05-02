@@ -1,3 +1,5 @@
 id,name,price,kcal,amount,sugar,protein,fat,salt,caffeine,imgpath
 1,빅맥,5200,582,223,8,27,11,902,,https://www.mcdonalds.co.kr/upload/product/pcfile/1583727855319.png
-2,맥스파이시 상하이 버거,4700,501,246,9,24,3,1102,,https://www.mcdonalds.co.kr/upload/product/pcfile/1583728352960.png
+2,맥스파이시 상하이 버거,5200,501,246,9,24,3,1102,,https://www.mcdonalds.co.kr/upload/product/pcfile/1583728352960.png
+3,베이컨 토마스 디럭스,5800,570,247,14,29,11,933,,https://www.mcdonalds.co.kr/upload/product/pcfile/1583727707216.png
+4,1955® 버거,6400,572,264,15,29,10,930,https://www.mcdonalds.co.kr/upload/product/pcfile/1599119647587.png

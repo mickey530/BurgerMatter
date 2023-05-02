@@ -1,2 +1,5 @@
 id,name,price,kcal,amount,sugar,protein,fat,salt,caffeine,imgpath
-1,와퍼,6900,619,278,10.5,29,13,809,,https://d1cua0vf0mkpiy.cloudfront.net/images/menu/normal/1e8bbb8b-b70f-42f3-b387-3fb44457b62f.png
+1,와퍼,7100,619,278,10.5,29,13,809,,https://d1cua0vf0mkpiy.cloudfront.net/images/menu/normal/1e8bbb8b-b70f-42f3-b387-3fb44457b62f.png
+2,불고기와퍼,7100,690,301,16.8,29,10,886,,https://d1cua0vf0mkpiy.cloudfront.net/images/menu/normal/a237a612-3ebb-4ae3-88a1-540f745d14af.png
+3,치즈와퍼,7700,716,303,7.1,33,16,1288,,https://d1cua0vf0mkpiy.cloudfront.net/images/menu/normal/be2ed70d-2412-4a2a-b9d2-e2e395ace8e6.png
+4,콰트로치즈와퍼,7900,769,309,6.2,40,40,20,,https://d1cua0vf0mkpiy.cloudfront.net/images/menu/normal/f2d167a5-9fb7-4992-8644-8b6a46f76a80.png
