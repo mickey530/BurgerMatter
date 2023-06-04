@@ -1,3 +1,7 @@
+.comparison {
+  width: 100%;
+}
+
 .comparison ul {
   padding: 0px;
   text-align: center;
@@ -5,4 +9,23 @@
 
 .comparison li {
   list-style: none;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.comparison label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.comparison .imgbox {
+  padding-bottom: 80%;
+  position: relative;
+}
+
+.comparison img {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
 }
