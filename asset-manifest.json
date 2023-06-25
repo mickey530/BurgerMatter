@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BurgerMatter/static/css/main.ff8fb6a2.css",
+    "main.js": "/BurgerMatter/static/js/main.8ed38228.js",
+    "index.html": "/BurgerMatter/index.html",
+    "main.ff8fb6a2.css.map": "/BurgerMatter/static/css/main.ff8fb6a2.css.map",
+    "main.8ed38228.js.map": "/BurgerMatter/static/js/main.8ed38228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8fb6a2.css",
+    "static/js/main.8ed38228.js"
+  ]
+}
